@@ -1,0 +1,12 @@
+﻿Trà sữa truyền thống			| Sự hòa quyện kinh điển giữa cốt hồng trà ủ đậm đà, chát nhẹ cùng vị béo ngậy, thơm ngát của bột sữa.										| 20000
+Trà sữa Ô Long					| Vị trà Ô Long rang nhẹ thanh tao, hậu ngọt sâu và dậy hương thơm tự nhiên, tạo cảm giác nhẹ nhàng, ít ngấy.								| 25000
+Sữa tươi trân châu đường đen	| Sữa tươi thanh trùng béo mịn hòa quyện cùng trân châu nấu siro đường đen đậm đà, thơm lừng mùi caramel cháy nhẹ.							| 25000
+Trà sữa Matcha					| Nền trà sữa béo dịu kết hợp cùng bột trà xanh Nhật Bản thơm mát, mang vị chát nhẹ đặc trưng và hậu ngọt thanh.							| 35000
+Trà sữa Khoai môn				| Thức uống có sắc tím bắt mắt, nổi bật với vị bùi béo, thơm nồng đặc trưng của khoai môn nghiền quyện cùng trà sữa.						| 25000
+Trà sữa Socola					| Vị ngọt ngào, đậm đà và hơi đắng nhẹ của bột cacao/socola nguyên chất hòa quyện hoàn hảo với lớp trà sữa béo thơm.						| 35000
+Trà đào cam sả					| Nền trà đen chua ngọt thanh mát, dậy mùi thơm nồng của sả tươi và cam vàng, đi kèm những miếng đào ngâm giòn ngọt.						| 32000
+Trà trái cây nhiệt đới			| Sự kết hợp tươi mới giữa trà lài thanh nhẹ và nhiều loại trái cây nhiệt đới (xoài, chanh dây, dưa hấu, dâu...), vị chua ngọt sảng khoái.  | 35000
+Cà phê đen đá					| Tinh túy từ hạt cà phê rang xay nguyên chất, mang vị đắng đậm đà, chua thanh nhẹ và hương thơm nồng nàn đánh thức vị giác.				| 15000
+Cà phê sữa đá					| Cà phê phin hoặc pha máy đậm vị kết hợp cùng sữa đặc ngọt béo, tạo nên thức uống cân bằng giữa vị đắng và ngọt.							| 20000
+Bạc xỉu							| Phiên bản nhẹ nhàng hơn của cà phê sữa với tỷ lệ sữa tươi và sữa đặc chiếm ưu thế, béo ngậy, ngọt dịu và chỉ thoảng nhẹ hương cà phê.		| 28000
+CaCao							| Thức uống sánh mịn, đậm vị đắng nhẹ đặc trưng của bột cacao nguyên chất hòa cùng sữa đặc béo ngậy, thơm ấm.								| 30000

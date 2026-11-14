@@ -1,0 +1,9 @@
+﻿Trân Châu Đen	| 5000
+Trân Châu Trắng | 5000
+Thạch Rau Câu	| 5000
+Hạt Thủy Tinh	| 7000
+Thạch Dừa		| 7000
+Sương Sáo		| 7000
+Pudding			| 6000
+Bánh Flan		| 10000
+Kem Cheese		| 8000
